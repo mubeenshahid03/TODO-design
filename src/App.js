@@ -7,6 +7,7 @@ import StayOrganized from './Components/StayOrganized/StayOrganized';
 import Benefits from './Components/Benefits/Benefits';
 import Features from './Components/Features/Features';
 import Plan from './Components/Plan/Plan';
+import Footer from './Components/Footer/Footer';
 
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
       <Benefits />
       <Features />
       <Plan />
+      <Footer />
     </div>
   );
 }
